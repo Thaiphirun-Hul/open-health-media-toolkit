@@ -1,0 +1,10 @@
+{
+  "toolkit": "Open Health Media Toolkit",
+  "version": "0.1.0",
+  "sampleOnly": true,
+  "ideas": [
+    {"id":"sample-001","topic":"Understanding high blood pressure","department":"Internal Medicine","format":"Animated explainer","status":"planned","audience":"General adult audience","purpose":"Explain what blood pressure numbers mean and encourage people to seek advice from qualified health professionals.","reviewer":"Clinical reviewer to be assigned","dueDate":"","notes":"Illustrative sample only. Verify all medical information before publication.","createdAt":"2026-01-01T00:00:00.000Z","updatedAt":"2026-01-01T00:00:00.000Z"},
+    {"id":"sample-002","topic":"Eye health checks for people living with diabetes","department":"Eye Health","format":"Short video","status":"production","audience":"People living with diabetes and their families","purpose":"Raise awareness of the importance of professional eye checks.","reviewer":"Eye health professional to be assigned","dueDate":"","notes":"Illustrative sample only. Confirm local referral information and clinical details.","createdAt":"2026-01-02T00:00:00.000Z","updatedAt":"2026-01-02T00:00:00.000Z"},
+    {"id":"sample-003","topic":"Preparing for a healthy pregnancy","department":"Obstetrics & Gynecology","format":"Infographic","status":"idea","audience":"People planning a pregnancy","purpose":"Share general preparation topics and direct audiences to qualified prenatal care.","reviewer":"OB/GYN professional to be assigned","dueDate":"","notes":"Illustrative sample only. Review clinical advice and local guidance.","createdAt":"2026-01-03T00:00:00.000Z","updatedAt":"2026-01-03T00:00:00.000Z"}
+  ]
+}
